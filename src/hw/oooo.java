@@ -1,5 +1,8 @@
 package hw;
 
 public class oooo {
-//hddfdlfjslkfds 
+//hddfdlfjslkfds
+	public static void main(String[] args) {
+		
+	}
 }
